@@ -45,7 +45,7 @@ Nhiệm vụ chính:
 - Hỗ trợ kiểm thử UAT & traceability  
 
 ## 4. Tài liệu & Sản phẩm phân tích
-Tất cả tài liệu được lưu trong thư mục **Documents/**:
+Tất cả tài liệu được lưu trong thư mục **documents/**:
 
 ### 📄 **Tài liệu chính**
 - **URD_RemoteHRM.docx** — Yêu cầu người dùng (URD)  
