@@ -1,6 +1,6 @@
 # Vai trò: Business Analyst
 **Mô tả ngắn:
-**Tham gia phân tích và xây dựng hệ thống quản lý nhân sự cho công ty IT làm việc từ xa, hỗ trợ theo dõi nhân viên, chấm công trực tuyến, quản lý nghỉ phép và giám sát tiến độ công việc.
+Tham gia phân tích và xây dựng hệ thống quản lý nhân sự cho công ty IT làm việc từ xa, hỗ trợ theo dõi nhân viên, chấm công trực tuyến, quản lý nghỉ phép và giám sát tiến độ công việc.
 **Nhiệm vụ chính:
 **Thu thập và phân tích yêu cầu từ stakeholder.
 Xây dựng tài liệu nghiệp vụ: BRD, SRS, User Stories, Use Case.
