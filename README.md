@@ -47,15 +47,6 @@ Nhiệm vụ chính:
 ## 4. Tài liệu & Sản phẩm phân tích
 Tất cả tài liệu được lưu trong thư mục **documents/**:
 
-### 📄 **Tài liệu chính**
-- **URD_RemoteHRM.docx** — Yêu cầu người dùng (URD)  
-- **UseCase_RemoteHRM.docx** — Use Case Diagram + mô tả  
-- **UserStories_RemoteHRM.docx** — User Stories & Acceptance Criteria  
-- **SRS_RemoteHRM.docx** — Đặc tả yêu cầu hệ thống  
-- **ERD_RemoteHRM.pdf** — Mô hình dữ liệu  
-- **BPMN_RemoteHRM.pdf** — Quy trình nghiệp vụ As-Is/To-Be  
-- **Wireframe_RemoteHRM.pdf** — Wireframe & Prototype  
-
 ## 5. Quy trình phân tích đã thực hiện
 1. **Xác định stakeholder**  
 2. **Thu thập yêu cầu (interview, observation mô phỏng)**  
