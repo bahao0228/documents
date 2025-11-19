@@ -65,8 +65,10 @@ Toàn bộ tài liệu BA được lưu trong thư mục **Documents/**
 - Nâng cao kỹ năng: phân tích nghiệp vụ, mô hình hoá, viết tài liệu, Agile  
 
 ## 8. Thông tin liên hệ
+
 **Phạm Huy Hảo** – Business Analyst  
-📧 phamhuyhao20040605@gmail.com  
-📍 Hà Nội, Việt Nam  
+📧 Email: phamhuyhao20040605@gmail.com  
+📞 Điện thoại: 0326040228  
+📍 Địa chỉ: Hà Nội, Việt Nam 
 
 
