@@ -6,7 +6,7 @@ Toàn bộ tài liệu được xây dựng theo chuẩn Business Analyst, bao g
 ---
 
 ## 1. Giới thiệu dự án
-Hệ thống **Remote HRM** được xây dựng nhằm tối ưu hoá việc quản lý nhân sự làm việc từ xa.  
+Hệ thống được xây dựng nhằm tối ưu hoá việc quản lý nhân sự làm việc từ xa.  
 Hệ thống hỗ trợ:
 
 - Quản lý hồ sơ nhân viên  
@@ -62,9 +62,13 @@ Toàn bộ tài liệu BA được lưu trong thư mục **Documents/**
 - Sơ đồ UML/BPMN rõ ràng, đầy đủ  
 - Mô hình dữ liệu chuẩn hoá, dễ triển khai  
 - Wireframe chi tiết giúp hình dung trải nghiệm người dùng  
-- Nâng cao kỹ năng: phân tích nghiệp vụ, mô hình hoá, viết tài liệu, Agile  
+- Nâng cao kỹ năng: phân tích nghiệp vụ, mô hình hoá, viết tài liệu, Agile
 
-## 8. Thông tin liên hệ
+## 📑 Bản quyền & Sử dụng
+Tài liệu và sản phẩm trong dự án này thuộc quyền sở hữu của **Phạm Huy Hảo**.  
+Chỉ được sử dụng cho mục đích **học tập, nghiên cứu và tham khảo**.  
+
+## Thông tin liên hệ
 
 **Phạm Huy Hảo** – Business Analyst  
 📧 Email: phamhuyhao20040605@gmail.com  
