@@ -45,7 +45,7 @@ Nhiệm vụ chính:
 - Hỗ trợ kiểm thử UAT & traceability  
 
 ## 4. Tài liệu & Sản phẩm phân tích
-Tất cả tài liệu được lưu trong thư mục **documents/**:
+📄 [Tải xuống PDF ERD](Documents/ERD_RemoteHRM.pdf)
 
 ## 5. Quy trình phân tích đã thực hiện
 1. **Xác định stakeholder**  
