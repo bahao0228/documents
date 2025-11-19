@@ -1,4 +1,4 @@
-# 📁 Remote Human Resource Management System (BA Documentation Project)
+# 📁 Hệ thống quản lý nhân sự từ xa
 
 Dự án mô phỏng phân tích nghiệp vụ cho hệ thống **quản lý nhân sự làm việc từ xa**, nhằm hỗ trợ doanh nghiệp IT theo dõi nhân viên, quản lý chấm công trực tuyến, phân công nhiệm vụ, tính lương và quản lý nghỉ phép.  
 Toàn bộ tài liệu được xây dựng theo chuẩn Business Analyst, bao gồm URD, Use Case, BPMN, ERD và Wireframe.
