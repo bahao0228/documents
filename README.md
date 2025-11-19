@@ -45,7 +45,7 @@ Nhiệm vụ chính:
 - Hỗ trợ kiểm thử UAT & traceability  
 
 ## 4. Tài liệu & Sản phẩm phân tích
-📄 [Tải xuống PDF ERD](documents/BA_QLNSTX.pdf)
+Toàn bộ tài liệu BA được lưu trong thư mục **Documents/**
 
 ## 5. Quy trình phân tích đã thực hiện
 1. **Xác định stakeholder**  
